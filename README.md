@@ -5,4 +5,4 @@ Este é o projeto de desenvolvimento do módulo base do curso de tecnologia da E
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/douglasrcunha/projeto-landing-page/blob/main/imagens/Landinpage.png?raw=true)
